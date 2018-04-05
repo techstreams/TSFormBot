@@ -13,10 +13,10 @@ A submission to a **TSFormBot enabled Google Form** creates a notification in th
 
 ---
 
-### Getting Started
+## Getting Started
 
 
-#### 1) Install TSFormBot in Google Drive
+### 1) Install TSFormBot in Google Drive
 
 * Login to [Google Drive](https://drive.google.com/)
 
@@ -26,8 +26,10 @@ A submission to a **TSFormBot enabled Google Form** creates a notification in th
 
 ![](img/step1.png)
 
+<br>
 
-#### 2) Access the Hangouts Chat Room Webhooks
+
+### 2) Access the Hangouts Chat Room Webhooks
 
 
 * Go to [Hangouts Chat](https://chat.google.com)
@@ -42,7 +44,7 @@ A submission to a **TSFormBot enabled Google Form** creates a notification in th
 
 <br>
 
-#### 3) Add a Webhook
+### 3) Add a Webhook
 
 * Select **+ ADD WEBHOOK**
 
@@ -50,7 +52,7 @@ A submission to a **TSFormBot enabled Google Form** creates a notification in th
 
 <br>
 
-#### 4) Enter a Webhook Name
+### 4) Enter a Webhook Name
 
 * Enter a **webhook name**
 
@@ -62,7 +64,7 @@ A submission to a **TSFormBot enabled Google Form** creates a notification in th
 
 <br>
 
-#### 5) Make a Copy of the URL
+### 5) Make a Copy of the URL
 
 * Click the **Copy** button to make a copy of the webhook URL for **Step 9**
 
@@ -70,7 +72,7 @@ A submission to a **TSFormBot enabled Google Form** creates a notification in th
 
 <br>
 
-#### 6) Open the newly copied "Time off Request" form and select the TSFormBot menu
+### 6) Open the newly copied "Time off Request" form and select the TSFormBot menu
 
 * Select the **TSFormBot** menu
 
@@ -78,7 +80,7 @@ A submission to a **TSFormBot enabled Google Form** creates a notification in th
 
 <br>
 
-#### 7) Enable the TSFormBot
+### 7) Enable the TSFormBot
 
 * Select the **Enable Bot** menu
 
@@ -86,7 +88,7 @@ A submission to a **TSFormBot enabled Google Form** creates a notification in th
 
 <br>
 
-#### 8) Authorize the bot
+### 8) Authorize the bot
 
 * Click **Continue**
 
@@ -100,7 +102,7 @@ A submission to a **TSFormBot enabled Google Form** creates a notification in th
 
 <br>
 
-#### 9) Enter the Webhook URL and Complete Configuration
+### 9) Enter the Webhook URL and Complete Configuration
 
 * Enter the full **Webhook URL** copied in **Step 5**
 
@@ -112,8 +114,10 @@ A submission to a **TSFormBot enabled Google Form** creates a notification in th
 
 ![](img/step9-2.png)
 
+<br>
 
-#### 10) Submit to the Form
+
+### 10) Submit to the Form
 
 * Submit an entry to the form
 
