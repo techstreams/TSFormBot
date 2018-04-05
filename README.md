@@ -121,6 +121,8 @@ A submission to a **TSFormBot** enabled Google Form creates a notification in th
 
 * Click new conversation to see the post
 
+* Go to the form or form response using the conversion card buttons
+
 ![](img/step10-1.png)
 
 ![](img/step10-2.png)
