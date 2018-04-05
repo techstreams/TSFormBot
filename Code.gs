@@ -69,7 +69,7 @@ function postToRoom(e) {
             "header": {
               "title": "TSFormBot",
               "subtitle": "Form Notifications Bot",
-              "imageUrl": "https://github.com/techstreams/TSFormBot/raw/master/img/notifications.png",
+              "imageUrl": "https://raw.githubusercontent.com/techstreams/TSFormBot/master/notifications.png",
               "imageStyle": "IMAGE"
             },
             "sections": [
