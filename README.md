@@ -1,6 +1,6 @@
 ## Overview
 
-**TSFormBot** is a [Google Hangouts Chat Bot](https://gsuite.google.com/products/chat/) for [Google Forms](https://www.google.com/forms/about/) powered by [Google Apps Script](https://www.google.com/script/start/).
+**TSFormBot** is a [Google Form](https://www.google.com/forms/about/) [Hangouts Chat Bot](https://gsuite.google.com/products/chat/) powered by [Google Apps Script](https://www.google.com/script/start/).
 
 ![](img/step10-3.png)
 
