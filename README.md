@@ -9,7 +9,7 @@
 ## How It Works
 
 
-A submission to a **TSFormBot** enabled Google Form creates a notification in the associated [Google Hangouts Chat Room](https://gsuite.google.com/products/chat/).
+A submission to a **TSFormBot enabled Google Form** creates a notification in the associated [Google Hangouts Chat Room](https://gsuite.google.com/products/chat/).
 
 ---
 
@@ -18,11 +18,11 @@ A submission to a **TSFormBot** enabled Google Form creates a notification in th
 
 #### 1) Install TSFormBot in Google Drive
 
-* Login to [Google Drive](https://drive.google.com/).
+* Login to [Google Drive](https://drive.google.com/)
 
-* Access the **[TSFormBot enabled Time Off Requet form](https://docs.google.com/forms/d/1KWev-4-TlVLlNFPrCQlvawZXiDmGFEFJvm4PR2Hrycs/copy)**.
+* Access the **[TSFormBot enabled Time Off Requet form](https://docs.google.com/forms/d/1KWev-4-TlVLlNFPrCQlvawZXiDmGFEFJvm4PR2Hrycs/copy)**
 
-* Click the ***Make a copy*** button. This will copy the form to Google Drive.
+* Click the ***Make a copy*** button. This will copy the form to Google Drive
 
 ![](img/step1.png)
 
@@ -102,7 +102,7 @@ A submission to a **TSFormBot** enabled Google Form creates a notification in th
 
 #### 9) Enter the Webhook URL and Complete Configuration
 
-* Enter the full Webhook URL copied in **Step 5**
+* Enter the full **Webhook URL** copied in **Step 5**
 
 * Click **Ok**
 
@@ -117,11 +117,11 @@ A submission to a **TSFormBot** enabled Google Form creates a notification in th
 
 * Submit an entry to the form
 
-* New conversation post will be made to the Hangouts Chat room
+* A new conversation post will be made to the Hangouts Chat room
 
 * Click new conversation to see the post
 
-* Go to the form or form response using the conversion card buttons
+* Access the **form** or **form response** using the conversion card buttons
 
 ![](img/step10-1.png)
 
