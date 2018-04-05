@@ -11,6 +11,8 @@
 
 A submission to a **TSFormBot enabled Google Form** creates a notification in the associated [Google Hangouts Chat Room](https://gsuite.google.com/products/chat/).
 
+See the [blog post](https://medium.com/@techstreams/tsformbot-a-google-form-hangouts-chat-bot-powered-by-google-apps-script-101a3b3d8773).
+
 ---
 
 ## Getting Started
