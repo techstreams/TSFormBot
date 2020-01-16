@@ -22,9 +22,9 @@ See the [blog post](https://medium.com/@techstreams/tsformbot-a-google-form-hang
 
 * Login to [Google Drive](https://drive.google.com/)
 
-* Access the **[TSFormBot enabled Time Off Requet form](https://docs.google.com/forms/d/1KWev-4-TlVLlNFPrCQlvawZXiDmGFEFJvm4PR2Hrycs/copy)**
+* Access the **[TSFormBot enabled Time Off Requet form](https://techstreams.page.link/TSFormBot)**
 
-* Click the ***Make a copy*** button. This will copy the form to Google Drive
+* Click the ***Use Template*** button. This will copy the form to Google Drive
 
 ![](img/step1.png)
 
