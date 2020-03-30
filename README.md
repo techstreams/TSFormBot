@@ -43,27 +43,27 @@ TSFormBot has been upgraded to include form responses.
 
 **New Install**
 
-* Create a new [Google Form](form.new).
-* From within the new form, select the **More _(three dots)_ > Script editor** menu. 
-* Delete the code in `Code.gs` from the script editor.
-* Click on the `Untitled project` project name, and rename to `TSFormBot`.
-* Copy and paste the [code](Code.gs) into the script editor.
-* Select the menu **File > Save all**.
-* Close the Script editor window.
-* Reload the Form.
+* Create a new [Google Form](form.new)
+* From within the new form, select the **More _(three dots)_ > Script editor** menu 
+* Delete the code in `Code.gs` from the script editor
+* Click on the `Untitled project` project name, and rename to `TSFormBot`
+* Copy and paste the [code](Code.gs) into the script editor
+* Select the menu **File > Save all**
+* Close the Script editor window
+* Reload the Form
 
 <br>
 
 **Upgrade an Existing TSFormBot**
 
-* Open existing TSFormBot enabled Google Form.
-* From within the form, select the **More _(three dots)_ > Script editor** menu. 
-* Delete the code in `Code.gs` from the script editor.
-* Copy and paste the [code](Code.gs) into the script editor.
-* Select the menu **File > Save all**.
-* Select the **Run > Enable new Apps Script runtime powered by V8** *(if V8 is not already enabled)*.
-* Close the Script editor window.
-* Reload the Form.
+* Open existing TSFormBot enabled Google Form
+* From within the form, select the **More _(three dots)_ > Script editor** menu 
+* Delete the code in `Code.gs` from the script editor
+* Copy and paste the [code](Code.gs) into the script editor
+* Select the menu **File > Save all**
+* Select the **Run > Enable new Apps Script runtime powered by V8** *(if V8 is not already enabled)*
+* Close the Script editor window
+* Reload the Form
 
 <br>
 
@@ -113,7 +113,7 @@ TSFormBot has been upgraded to include form responses.
 
 **Make a Copy of the URL**
 
-* Click the **Copy** button to make a copy of the webhook URL.
+* Click the **Copy** button to make a copy of the webhook URL
 
 ![](img/step5.png)
 
@@ -124,7 +124,7 @@ TSFormBot has been upgraded to include form responses.
 
 **Enable TSFormBot**
 
-* Open the form
+* Open the form and wait for the menu to fully load
 * Select the **TSFormBot** menu
 * Select the **Enable Bot** menu
 * *Complete the Google authoriation prompts if enabling TSFormBot for the first time and then re-run the __Enable Bot__ menu.*
@@ -137,7 +137,7 @@ TSFormBot has been upgraded to include form responses.
 
 **Enter the Webhook URL**
 
-* Enter the full **Webhook URL** copied in **Make a Copy of the URL** step above.
+* Enter the full **Webhook URL** copied in **Make a Copy of the URL** step above
 * Click **Ok**
 * Click **Ok** when configuration complete
 
