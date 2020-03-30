@@ -1,8 +1,8 @@
 ## TSFormBot
 
-![](img/tsformbot.jpg)
-
 **TSFormBot** is an [Apps Script](https://www.google.com/script/start/) powered [Google Form](https://www.google.com/forms/about/) **Hangouts Chat Bot** which creates form submission webhook notifications for [Hangouts Chat Rooms](https://gsuite.google.com/products/chat/).
+
+![](img/tsformbot.jpg)
 
 TSFormBot has been upgraded to include form responses.
 
