@@ -32,7 +32,7 @@ TSFormBot has been upgraded to include form responses.
 
 <br>
 
-> **Looking for TSFormBot Version 1?**  See [v1](https://github.com/techstreams/TSFormBot/tree/v1).
+**Looking for TSFormBot Version 1?**  See [v1](https://github.com/techstreams/TSFormBot/tree/v1).
 
 
 ---
@@ -45,7 +45,7 @@ TSFormBot has been upgraded to include form responses.
 
 * Create a new [Google Form](form.new).
 * From within the new form, select the **More _(three dots)_ > Script editor** menu. 
-* Delete the code in `Code.gs` in the script editor.
+* Delete the code in `Code.gs` from the script editor.
 * Click on the `Untitled project` project name, and rename to `TSFormBot`.
 * Copy and paste the [code](Code.gs) into the script editor.
 * Select the menu **File > Save all**.
@@ -56,9 +56,9 @@ TSFormBot has been upgraded to include form responses.
 
 **Upgrade an Existing TSFormBot**
 
-* Open existing Google Form with TSFormBot installed.
-* From within the form, select the **More menu _(three dots)_ > Script editor**. 
-* Delete the code in `Code.gs` in the script editor.
+* Open existing TSFormBot enabled Google Form.
+* From within the form, select the **More _(three dots)_ > Script editor** menu. 
+* Delete the code in `Code.gs` from the script editor.
 * Copy and paste the [code](Code.gs) into the script editor.
 * Select the menu **File > Save all**.
 * Select the **Run > Enable new Apps Script runtime powered by V8** *(if V8 is not already enabled)*.
@@ -68,7 +68,7 @@ TSFormBot has been upgraded to include form responses.
 <br>
 
 
-> *:grey_question: Rather install the __TSFormBot - Kitchen Sink Demo__?*
+> *:grey_question: Prefer to install the __TSFormBot - Kitchen Sink Demo__?*
 > * *Login to [Google Drive](https://drive.google.com/)*
 > * *Access the __[TSFormBot - Kitchen Sink Demo](https://techstreams.page.link/TSFormBotSinkDemo)__*
 > * *Click the __Use Template__ button. This will copy the form to Google Drive.*
@@ -127,7 +127,7 @@ TSFormBot has been upgraded to include form responses.
 * Open the form
 * Select the **TSFormBot** menu
 * Select the **Enable Bot** menu
-* *Complete the Google authoriation prompts if enabling TSFormBot for the first time and re-run the __Enable Bot__ menu.*
+* *Complete the Google authoriation prompts if enabling TSFormBot for the first time and then re-run the __Enable Bot__ menu.*
 
 ![](img/step6.png)
 
