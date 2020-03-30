@@ -32,7 +32,7 @@ TSFormBot has been upgraded to include form responses.
 
 <br>
 
-**Looking for TSFormBot Version 1?**  See [v1](https://github.com/techstreams/TSFormBot/tree/v1).
+**Looking for the previous version of TSFormBot?**  See [v1](https://github.com/techstreams/TSFormBot/tree/v1).
 
 
 ---
