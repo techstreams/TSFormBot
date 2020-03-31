@@ -62,6 +62,9 @@ TSFormBot has been upgraded to include form responses.
 * Copy and paste the [code](Code.gs) into the script editor
 * Select the menu **File > Save all**
 * Select the **Run > Enable new Apps Script runtime powered by V8** *(if V8 is not already enabled)*
+* Select the **Edit > Current Project's Triggers**
+* Delete any existing project `From form - On form submit` triggers *(click the __More > Delete trigger__ menu to the right of each trigger to delete)*
+* Close the Project Triggers window
 * Close the Script editor window
 * Reload the Form
 
