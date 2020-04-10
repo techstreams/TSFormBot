@@ -4,14 +4,20 @@
 
 *:point_right: For an overview, see this [blog post](https://medium.com/@techstreams/its-time-to-chat-with-a-little-help-from-our-friends-caf99b9969f8).*
 
-#### Use with [G Suite for Business](https://gsuite.google.com/solutions/).
+<br>
+
+#### Use with [G Suite for Business](https://gsuite.google.com/solutions/)
 
 ![](img/tsformbot.jpg)
 
+<br>
 
-#### Use with [G Suite for Education](https://edu.google.com/).
+
+#### Use with [G Suite for Education](https://edu.google.com/)
 
 ![](img/tsformbotedu.jpg)
+
+<br>
 
 ---
 
