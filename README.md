@@ -6,16 +6,17 @@
 
 <br>
 
-#### Use with [G Suite for Business](https://gsuite.google.com/solutions/)
+<table>
+  <tr>
+    <td>Use with <strong><a href="https://gsuite.google.com/solutions/">G Suite for Business</a></strong></td>
+    <td>Use with <strong><a href="https://edu.google.com/">G Suite for Education</a></strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/techstreams/TSFormBot/master/img/tsformbot.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/techstreams/TSFormBot/master/img/tsformbotedu.jpg"></td>
+  </tr>
+</table>
 
-![](img/tsformbot.jpg)
-
-<br>
-
-
-#### Use with [G Suite for Education](https://edu.google.com/)
-
-![](img/tsformbotedu.jpg)
 
 <br>
 
