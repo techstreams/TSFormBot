@@ -1,5 +1,12 @@
 ## TSFormBot
 
+*If you enjoy my [Google Workspace Apps Script](https://developers.google.com/apps-script) work, please consider buying me a cup of coffee!* 
+
+
+[![](https://techstreams.github.io/images/bmac.svg)](https://www.buymeacoffee.com/techstreams)
+
+---
+
 **TSFormBot** is an [Apps Script](https://www.google.com/script/start/) powered [Google Form](https://www.google.com/forms/about/) **Hangouts Chat Bot** which creates form submission webhook notifications for [Hangouts Chat Rooms](https://gsuite.google.com/products/chat/).
 
 *:point_right: For an overview, see this [blog post](https://medium.com/@techstreams/its-time-to-chat-with-a-little-help-from-our-friends-caf99b9969f8).*
