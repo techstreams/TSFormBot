@@ -98,7 +98,7 @@ TSFormBot has been upgraded to include form responses.
 
 > *:grey_question: Prefer to install the __TSFormBot - Kitchen Sink Demo__?*
 > * *Login to [Google Drive](https://drive.google.com/)*
-> * *Access the __[TSFormBot - Kitchen Sink Demo](https://techstreams.page.link/TSFormBotSinkDemo)__*
+> * *Access the __[TSFormBot - Kitchen Sink Demo](https://docs.google.com/forms/d/1274HULOEGv9xVAhAVlwqmmwxPwsV8S5rBqAVzBQEj7I/template/preview)__*
 > * *Click the __Use Template__ button. This will copy the form to Google Drive.*
 
 <br>
